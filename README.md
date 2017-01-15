@@ -15,4 +15,12 @@ Archiving purposes only
 
 ## Русский
 Этот репозиторий содержит некоторое чертежи и схемы, имеющие отношение к Dingoo Arcade Cab Mod с управлением от джойстика SNES.
+Сам мод здесь
+http://a320.emulate.su/2011/02/27/fallout-mod/
+http://a320.emulate.su/2011/02/24/dingoo-a320-arduino-chast-vtoraya/
+http://a320.emulate.su/2011/02/24/dingoo-a320-arduino-chast-vtoraya/
+
+Источник питания для Dingoo A320
 http://a320.emulate.su/2011/02/02/power-alternative-dingoo-a320/
+
+Только в архивных целях.
